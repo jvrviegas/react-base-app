@@ -1,7 +1,7 @@
 # ReactJS Base Application
 > Aplicação base para projetos ReactJS
 
-Uma aplicação que servirá como base para dar início em um projeto ReactJS. Foram removidos vários arquivos desnecessários e já está com o ESLint e Prettier configurado, bem como suas dependências instaladas.
+Uma aplicação enxuta que servirá como base para dar início em um projeto ReactJS. Foram removidos vários arquivos desnecessários e já está com o ESLint e Prettier configurado, bem como suas dependências instaladas.
 
 ![](../header.png)
 
@@ -10,6 +10,8 @@ Uma aplicação que servirá como base para dar início em um projeto ReactJS. F
 OS X & Linux:
 
 ```sh
+git clone https://github.com/jvrviegas/react-base-app
+cd react-base-app
 yarn
 ```
 
